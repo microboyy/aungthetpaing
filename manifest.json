@@ -1,0 +1,22 @@
+{
+    "name":"CROSS-X(ATP)",
+    "short_name":"ATP",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#fff",
+    "theme_color":"black",
+    "scope":".",
+    "description":"Aung Thet paing Portfolio",
+    "icons":[
+        {
+            "src":"assets/img/profile-img.jpg",
+            "sizes":"192x192",
+            "type":"images/jpg"
+        },
+        {
+            "src":"assets/img/profile-img.jpg",
+            "sizes":"512x512",
+            "type":"images/jpg"
+        }
+    ]
+}
